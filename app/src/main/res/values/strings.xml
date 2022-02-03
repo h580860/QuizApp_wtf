@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="new_game">Quiz</string>
+    <string name="database">Database</string>
+    <string name="add">Add</string>
+    <string name="headline_quiz">Quizname</string>
+    <string name="quiztext">Quiz functionality here</string>
+    <string name="addtext">Add functionality here</string>
+    <string name="databasetext">Database functionality here</string>
+</resources>
